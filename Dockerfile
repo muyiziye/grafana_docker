@@ -1,0 +1,2 @@
+FROM grafana/grafana@sha256:44e41d00685a13783555fa1e8efc2a5e5e70e1fa16db5523035cbedca8bd7eb7
+
